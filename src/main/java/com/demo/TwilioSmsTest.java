@@ -7,7 +7,6 @@ import com.twilio.rest.api.v2010.account.Message;
 import com.twilio.type.PhoneNumber;
 import java.time.Duration;
 
-
 public class TwilioSmsTest {
 
     // Twilio Credentials
